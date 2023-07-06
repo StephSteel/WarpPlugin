@@ -13,8 +13,8 @@ WarpPlugin is a Minecraft plugin that provides warp functionality for players. W
 ## Installation
 
 1. Download the latest version of WarpPlugin from the [releases page](https://github.com/StephSteel/WarpPlugin/releases).
-2. Place the downloaded JAR file in the `plugins` folder of your Minecraft server.
-3. Start or reload the server.
+2. Place the JAR file in the `plugins` folder of your Spigot server.
+3. Start or restart your server.
 
 
 ## Usage
