@@ -1,0 +1,17 @@
+name: WarpPlugin
+version: '1.0'
+main: dev.steph.warpplugin.Main
+api-version: '1.20'
+description: A plugin that provides warp functionality for players.
+author: Steph Steel
+
+commands:
+  warp:
+    description: Teleports the player to a predefined warp location.
+    usage: /warp <name>
+  setwarp:
+    description: Sets a new warp at the current player location.
+    usage: /setwarp <name>
+  delwarp:
+    description: Deletes an existing warp.
+    usage: /delwarp <name>
